@@ -1,0 +1,16 @@
+{
+    "name": "olgm-webpack",
+    "version": "1.0.0",
+    "description": "Example using OpenLayers - Google Maps integration library with Webpack",
+    "scripts": {
+        "build": "webpack --config webpack.config.js --mode production"
+    },
+    "devDependencies": {
+        "webpack": "^4.12.1",
+        "webpack-command": "^0.3.0"
+    },
+    "dependencies": {
+        "ol": "^5.3.3",
+        "olgm": "^1.5.0"
+    }
+}
