@@ -4,7 +4,7 @@ This example demonstrates how the `olgm` package can be used with webpack.
 
 Clone the project.
 
-    git clone git@github.com:geomaplona/olgm-webpack.git
+    git clone git@github.com:geopamplona/olgm-webpack.git
 
 Install the project dependencies.
 
